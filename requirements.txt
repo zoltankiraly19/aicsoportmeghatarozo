@@ -1,0 +1,7 @@
+Werkzeug
+flask
+requests
+flask-cors
+ibm-cos-sdk
+botocore
+ibm-cos-sdk-core
